@@ -1,0 +1,9 @@
+# Frontend
+educhoice-frontend/node_modules
+educhoice-frontend/dist
+
+# Backend
+educhoice-backend/node_modules
+
+# Logs
+*.log
